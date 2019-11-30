@@ -1,0 +1,76 @@
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
+
+
+
+
+
+
+#header2-42 H1 {
+  color: #eb6b56;
+  text-align: right;
+  font-family: 'Lora', serif;
+}
+#header2-42 P {
+  text-align: right;
+  color: #ffffff;
+  font-size: 25px;
+  font-family: 'Lora', serif;
+}
+#features1-5 .mbr-section-title .mbr-header__text {
+  color: #d14841;
+  text-align: center;
+  font-family: 'Lora', serif;
+}
+#features1-5 .mbr-section__col .mbr-header__text {
+  color: #eb6b56;
+}
+#features1-6 .mbr-section__col .mbr-header__text {
+  color: #000000;
+}
+#features1-g .mbr-section__col .mbr-header__text {
+  color: #eb6b56;
+  font-family: 'Lora', serif;
+}
+#features1-g P {
+  color: #ffffff;
+  font-family: 'Lora', serif;
+}
+#features1-g .mbr-section-title .mbr-header__text {
+  color: #eb6b56;
+  font-family: 'Lora', serif;
+}
+#instagram-feed-block-0 .inst__title {
+  text-align: center;
+  color: #eb6b56;
+}
+#contacts2-7 P {
+  color: #efefef;
+}
+#contacts2-7 UL {
+  color: #cccccc;
+}
+#contacts2-7 DIV {
+  color: #efefef;
+}
+#contacts2-7 B {
+  color: #eb6b56;
+  font-size: 14px;
+}
+#menu-41 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-41.mbr-navbar--stuck .mbr-navbar__section {
+  background: #9f9a93;
+}
+#menu-41 .mbr-navbar__hamburger {
+  color: #b8312f;
+}
+#menu-41 .mbr-brand__name a {
+  font-family: 'Lora', serif;
+  font-size: 19px;
+}
+#footer1-j P {
+  text-align: center;
+  color: #eb6b56;
+}
